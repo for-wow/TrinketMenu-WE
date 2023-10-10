@@ -3,13 +3,12 @@ TrinketMenu Wayborn Edition
 
 ---
 
-### Original version:
-https://wowskill.ru/trinketmenu-1-12-1
+Original version: https://wowskill.ru/trinketmenu-1-12-1
 
 ---
 
-### Addon info:
-[Changelog](CHANGELOG.md)
+Addon info: [Details](DETAILS.md) [FAQ](FAQ.md) [Changelog](CHANGELOG.md)
+
 ---
 
 ### Installation:
