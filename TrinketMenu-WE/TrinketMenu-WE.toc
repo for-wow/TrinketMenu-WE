@@ -1,0 +1,16 @@
+## Interface: 11200
+## Title: TrinketMenu-WE
+## Author: Gello
+## Notes: AddOn to manage trinkets, fix by Ogrisch, editor Wayborn
+## SavedVariables: TrinketMenuOptions
+## SavedVariablesPerCharacter: TrinketMenuPerOptions, TrinketMenuQueue
+
+TrinketMenu.lua
+TrinketMenu.xml
+TrinketMenuOpt.lua
+TrinketMenuOpt.xml
+TrinketMenuQueue.lua
+TrinketMenuQueue.xml
+
+Localization.lua
+Localization.ruRU.lua
